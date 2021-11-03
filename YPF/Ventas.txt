@@ -1,0 +1,7 @@
+
+Ventas del Mes: Estacion de Servicio YPF
+
+
+ CARGA   -  PLAYERO   - SURTIDOR  -   TIPO COMBUSTIBLE  - LITROS
+1       -    santiago     -   1       -    Nafta Super     -   506
+2       -    lucas     -   4       -    Diesel Premium     -   548
